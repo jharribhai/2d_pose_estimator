@@ -5,7 +5,7 @@ To estimate (estimate.py) module includes a function called estimated_pose that 
 Attached to this document is a main.py file as example on how to use the module as shown below:
 from estimate import estimated_pose
 
-# initialise the robot's position x = 0, y = 0, heading angle theta # = 0
+#initialise the robot's position x = 0, y = 0, heading angle theta # = 0
 x = 0
 y = 0
 theta = 0
